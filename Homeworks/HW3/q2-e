@@ -1,0 +1,12 @@
+Create view LangCnt as
+Select CountryCode, count(language) as langnum 
+from countrylanguage
+Group by CountryCode;
+
+
+select Name
+from country, LangCnt
+where langnum >= all(
+    select langnum
+    from LangCnt)
+and Code = CountryCode;

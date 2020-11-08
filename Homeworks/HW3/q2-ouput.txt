@@ -1,0 +1,105 @@
+#q2 outputs
+
+
++--------------+------------+
+| name         | Population |
++--------------+------------+
+| New York     |    8008278 |
+| Los Angeles  |    3694820 |
+| Chicago      |    2896016 |
+| Houston      |    1953631 |
+| Philadelphia |    1517550 |
+| Phoenix      |    1321045 |
+| San Diego    |    1223400 |
+| Dallas       |    1188580 |
+| San Antonio  |    1144646 |
+| Detroit      |     951270 |
++--------------+------------+
+10 rows in set (0.00 sec)
+
+
++----------------------+---------------+------------+
+| Name                 | Continent     | Population |
++----------------------+---------------+------------+
+| United Arab Emirates | Asia          |    2441000 |
+| United Kingdom       | Europe        |   59623400 |
+| United States        | North America |  278357000 |
++----------------------+---------------+------------+
+3 rows in set (0.01 sec)
+
+
++----------------------------------------------+
+| name                                         |
++----------------------------------------------+
+| Antarctica                                   |
+| French Southern territories                  |
+| Bouvet Island                                |
+| Heard Island and McDonald Islands            |
+| British Indian Ocean Territory               |
+| South Georgia and the South Sandwich Islands |
++----------------------------------------------+
+6 rows in set (0.00 sec)
+
+
++----------------------------------------------+
+| name                                         |
++----------------------------------------------+
+| Antarctica                                   |
+| French Southern territories                  |
+| Bouvet Island                                |
+| Heard Island and McDonald Islands            |
+| British Indian Ocean Territory               |
+| South Georgia and the South Sandwich Islands |
++----------------------------------------------+
+6 rows in set (0.00 sec)
+
+
+
++---------------------------------------+
+| Name                                  |
++---------------------------------------+
+| China                                 |
+| India                                 |
+| Russian Federation                    |
+| United States                         |
+| Canada                                |
+| Congo, The Democratic Republic of the |
+| Kenya                                 |
+| Mozambique                            |
+| Nigeria                               |
+| Tanzania                              |
+| Uganda                                |
++---------------------------------------+
+11 rows in set (0.00 sec)
+
+
+
+
++--------------------+
+| Name               |
++--------------------+
+| Canada             |
+| China              |
+| India              |
+| Russian Federation |
+| United States      |
++--------------------+
+5 rows in set (0.01 sec)
+
+
+
++------------+
+| Language   |
++------------+
+| Chinese    |
+| Hindi      |
+| English    |
+| Spanish    |
+| Arabic     |
+| Malay      |
+| Portuguese |
+| Russian    |
+| Urdu       |
+| French     |
++------------+
+10 rows in set (0.00 sec)
